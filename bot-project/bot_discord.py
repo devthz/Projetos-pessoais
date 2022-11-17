@@ -6,7 +6,7 @@ import youtube_dl
 
 # Bot Initialization
 
-token = 'MTA0MjU5MzMyODA4NjEzMDc5OA.G-MihY.c4fwH1iM2xbrIOMI2GHoAD_wNjBAE896EGrS-I'
+token = 'Your TOKEN'
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents = intents)
