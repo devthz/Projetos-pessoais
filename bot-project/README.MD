@@ -1,3 +1,9 @@
-# Discord Music BOT
+# Discord Music BOT with Python
 
-### Created using Python 
+### Libraries you must need:
+
+#### Discord
+##### pip install discord or pip install discord.py
+
+#### YoutubeDL
+##### pip install youtube_dl 
